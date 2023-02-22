@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedivy&show_icons=true&theme=react)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=react&hide_border=true&username=ahmedivy" height="350" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=react&hide_border=true&username=ahmedivy" height="200" alt="languages graph"  />
 
 ###
 
