@@ -1,8 +1,9 @@
 <h1 align="center">Hi there👋, I'm Ahmed</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedivy&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedivy&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Recent%20Stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=react&hide_border=true&username=ahmedivy" height="200" alt="languages graph"  />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedivy&hide=html&theme=react&layout=compact&card_width=450&custom_title=Top%20Languages)](https://github.com/ahmedivy)
 
 ###
 
