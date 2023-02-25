@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedivy&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Recent%20Stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedivy&hide=html&theme=react&layout=compact&card_width=450&custom_title=Top%20Languages&langs_count=6&exclude_repo=coursera,poking-netflix,Java,Auction-System-JavaFX)](https://github.com/ahmedivy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedivy&hide=html&theme=react&layout=compact&card_width=450&custom_title=Top%20Languages&langs_count=8&exclude_repo=coursera,poking-netflix,Java,Auction-System-JavaFX)](https://github.com/ahmedivy)
 
 ###
 
