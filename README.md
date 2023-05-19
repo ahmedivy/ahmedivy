@@ -5,6 +5,6 @@
 <!-- - I'm learning and working on data related domains in Python 🐍. -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedivy&hide=html&theme=react&layout=compact&card_width=450&custom_title=Top%20Languages&langs_count=8&exclude_repo=coursera,Java,Auction-System-JavaFX)](https://github.com/ahmedivy)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedivy&hide=html&theme=react&layout=compact&card_width=450&custom_title=Top%20Languages&langs_count=8&exclude_repo=coursera,Java,Auction-System-JavaFX)](https://github.com/ahmedivy) -->
 
 
