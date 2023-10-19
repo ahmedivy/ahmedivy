@@ -1,3 +1,1 @@
-I am Ahmed Abdullah.
-
-I train neural nets on large datasets.
+I train deep neural nets on large datasets.
